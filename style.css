@@ -17,12 +17,12 @@
 @keyframes pjanim {
   0% {
     color: black;
-    font-size: 50px;
+    font-size: 120px;
     font-variation-settings: "wght" 0;
   }
   100% {
-    color: red;
-    font-size:200px;
+    color: #FF860;
+    font-size:130px;
     font-variation-settings: "wght" 100;
   }
 }
