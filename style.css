@@ -28,10 +28,11 @@ h1  {
 }
 
 h2{
-  background-color: green;
+  
   color: white;
-  opacity: 0.7;
+  text-align: center;
+
 }
 h3{
-  background-color:green;
+  text-align: center;
 }
