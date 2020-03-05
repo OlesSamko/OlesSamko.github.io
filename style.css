@@ -1,6 +1,6 @@
 @font-face{
-  font-family: oles;
-  src: url(olesGX.ttf);
+  font-family: Mutator;
+  src: url(https://www.axis-praxis.org/fonts/webfonts/MutatorSans.ttf);
 }
 @keyframes pjanim {
   0% {
@@ -15,7 +15,7 @@
   }
 }
 body{
-  font-family: oles;
+  font-family: Mutator;
   
 }
 h1  {
