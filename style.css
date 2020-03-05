@@ -9,7 +9,7 @@
     font-variation-settings: "wght"800,"wdth"560
   }
   100% {
-    color: red;
+    color: purple;
     font-size:24;
     font-variation-settings: "wght"100,"wdth"100;
   }
@@ -29,7 +29,7 @@ h1  {
 
 h2{
   
-  color: white;
+  color: black;
   text-align: center;
 
 }
