@@ -43,6 +43,8 @@ h2{
   color: black;
   text-align: center;
   font-size: 100px;
+  font-variation-settings:"wght" 800, "wdth" 1000;
+  animation: 4s infinite pjanim1;
   
 }
 h3{
