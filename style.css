@@ -5,12 +5,12 @@
 @keyframes pjanim {
   0% {
     color: black;
-    font-size: 120px;
-    font-variation-settings: "wght" 10;
+    font-size: 50px;
+    font-variation-settings: "wght" 0;
   }
   100% {
     color: red;
-    font-size:300px;
+    font-size:200px;
     font-variation-settings: "wght" 100;
   }
 }
@@ -23,7 +23,7 @@ h1  {
   font-size: 64px;
   text-align: center;
   font-variation-settings:"wght" 800, "wdth" 1000;
-  animation: 3s infinite pjanim;
+  animation: 4s infinite pjanim;
 }
 
 h2{
