@@ -9,13 +9,14 @@
     font-variation-settings: "wght"800,"wdth"560
   }
   100% {
-    color: yellow;
+    color: red;
     font-size:24;
     font-variation-settings: "wght"100,"wdth"100;
   }
 }
 body{
   font-family: oles;
+  
   
 }
 h1  {
