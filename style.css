@@ -2,6 +2,18 @@
   font-family: oles;
   src: url(https://OlesSamko.github.io/olesGX.ttf);
 }
+@keyframes pjanim1 {
+  0% {
+    color: black;
+    font-size: 50px;
+    font-variation-settings: "wght" 0;
+  }
+  100% {
+    color: black;
+    font-size:200px;
+    font-variation-settings: "wght" 100;
+  }
+}
 @keyframes pjanim {
   0% {
     color: black;
@@ -30,7 +42,7 @@ h2{
   
   color: black;
   text-align: center;
-  font-size: 200px;
+  font-size: 100px;
   
 }
 h3{
