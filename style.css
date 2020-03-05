@@ -30,12 +30,12 @@
 @keyframes pjanim1 {
   0% {
     color: black;
-    font-size: 250px;
+    font-size: 200px;
     font-variation-settings: "wght" 0;
   }
   100% {
     color: black;
-    font-size:250px;
+    font-size:200px;
     font-variation-settings: "wght" 100;
   }
 }
