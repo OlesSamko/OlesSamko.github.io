@@ -29,9 +29,11 @@ h1  {
 
 h2{
   
-  color: black;
+  color: green;
+  font-size: 64px;
   text-align: center;
-
+  font-variation-settings:"wght" 800, "wdth" 1000;
+  animation: 3s infinite pjanim;
 }
 h3{
   text-align: center;
