@@ -2,22 +2,23 @@
   font-family: oles;
   src: url(https://OlesSamko.github.io/olesGX.ttf);
 }
+
 @keyframes pjanim3 {
   0% {
     color: black;
-    font-size: 200px;
+    font-size: 300px;
     font-variation-settings: "wght" 0;
   }
   100% {
-    color: red;
-    font-size:200px;
+    color: black;
+    font-size:300px;
     font-variation-settings: "wght" 100;
   }
 }
 @keyframes pjanim {
   0% {
     color: black;
-    font-size: 200px;
+    font-size: 300px;
     font-variation-settings: "wght" 0;
   }
   100% {
@@ -29,12 +30,12 @@
 @keyframes pjanim1 {
   0% {
     color: black;
-    font-size: 200px;
+    font-size: 250px;
     font-variation-settings: "wght" 0;
   }
   100% {
     color: black;
-    font-size:200px;
+    font-size:250px;
     font-variation-settings: "wght" 100;
   }
 }
@@ -43,11 +44,11 @@ body{
   
 }
 h1  {
-  color: black;
+  color: blue;
   font-size: 64px;
   text-align: center;
   font-variation-settings:"wght" 800, "wdth" 1000;
-  animation: 3s infinite pjanim;
+  animation: 2.5s infinite pjanim;
 }
 
 h2{
@@ -55,7 +56,7 @@ h2{
   color: black;
   text-align: center;
   font-size: 200px;
-  animation: 2s infinite pjanim1;
+  animation: 2.5s infinite pjanim1;
   
 }
 h3{
@@ -63,7 +64,12 @@ h3{
   
   font-family: 'Roboto', sans-serif;
   
+  {
+    
+  }
+  
 }
+
 .one {
   color: black;
   text-align: center;
