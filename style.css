@@ -2,16 +2,7 @@
   font-family: oles;
   src: url(https://OlesSamko.github.io/olesGX.ttf);
 }
-@keyframes pjanim1 {
-  0% {
-    color: black;
-    font-size: 100px;
-    font-variation-settings: "wght" 0;
-  }
-  100% {
-    color: black;
-    font-size:130px;
-    font-variation-settings: "wght" 100;
+
   }
 }
 @keyframes pjanim {
@@ -35,7 +26,7 @@ h1  {
   font-size: 64px;
   text-align: center;
   font-variation-settings:"wght" 800, "wdth" 1000;
-  animation: 4s infinite pjanim;
+  animation: 3s infinite pjanim;
 }
 
 h2{
@@ -44,7 +35,7 @@ h2{
   text-align: center;
   font-size: 100px;
   font-variation-settings:"wght" 800, "wdth" 1000;
-  animation: 4s infinite pjanim1;
+  animation: 3s infinite pjanim;
   
 }
 h3{
