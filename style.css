@@ -6,12 +6,12 @@
   0% {
     color: blue;
     font-size: 12px;
-    font-variation-settings: "wght"800,"wdth"560
+    font-variation-settings: "wght" 800;
   }
   100% {
     color: purple;
     font-size:24;
-    font-variation-settings: "wght"100,"wdth"100;
+    font-variation-settings: "wght" 100;
   }
 }
 body{
