@@ -5,36 +5,36 @@
 @keyframes pjanim3 {
   0% {
     color: black;
-    font-size: 150px;
+    font-size: 200px;
     font-variation-settings: "wght" 0;
   }
   100% {
     color: red;
-    font-size:150px;
+    font-size:200px;
     font-variation-settings: "wght" 100;
   }
 }
 @keyframes pjanim {
   0% {
     color: black;
-    font-size: 150px;
+    font-size: 200px;
     font-variation-settings: "wght" 0;
   }
   100% {
     color: #FC4747;
-    font-size:150px;
+    font-size:200px;
     font-variation-settings: "wght" 100;
   }
 }
 @keyframes pjanim1 {
   0% {
     color: black;
-    font-size: 150px;
+    font-size: 200px;
     font-variation-settings: "wght" 0;
   }
   100% {
     color: black;
-    font-size:150px;
+    font-size:200px;
     font-variation-settings: "wght" 100;
   }
 }
@@ -63,4 +63,14 @@ h3{
   
   font-family: 'Roboto', sans-serif;
   
+}
+.one {
+  color: black;
+  text-align: center;
+  font-size: 200px;
+  animation: 2.5s infinite pjanim3;
+}
+
+.two {
+  animation: 3s infinite pjanim1
 }
