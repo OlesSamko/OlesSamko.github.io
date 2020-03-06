@@ -6,12 +6,12 @@
 @keyframes pjanim3 {
   0% {
     color: blue;
-    font-size: 50px;
+    font-size: 150px;
     font-variation-settings: "wght" 0;
   }
   100% {
     color: blue;
-    font-size:50px;
+    font-size:150px;
     font-variation-settings: "wght" 100;
   }
 }
