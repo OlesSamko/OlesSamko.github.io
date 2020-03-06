@@ -6,36 +6,36 @@
 @keyframes pjanim3 {
   0% {
     color: black;
-    font-size: 150px;
+    font-size: 100px;
     font-variation-settings: "wght" 0;
   }
   100% {
     color: black;
-    font-size:150px;
+    font-size:100px;
     font-variation-settings: "wght" 100;
   }
 }
 @keyframes pjanim {
   0% {
     color: black;
-    font-size: 100px;
+    font-size: 50px;
     font-variation-settings: "wght" 0;
   }
   100% {
     color: #FC4747;
-    font-size:100px;
+    font-size:50px;
     font-variation-settings: "wght" 100;
   }
 }
 @keyframes pjanim1 {
   0% {
     color: black;
-    font-size: 100px;
+    font-size: 50px;
     font-variation-settings: "wght" 0;
   }
   100% {
     color: black;
-    font-size:100px;
+    font-size:50px;
     font-variation-settings: "wght" 100;
   }
 }
@@ -55,7 +55,7 @@ h2{
   
   color: black;
   text-align: center;
-  font-size: 200px;
+  font-size: 100px;
   animation: 2.5s infinite pjanim1;
   
 }
@@ -73,7 +73,7 @@ h3{
 .one {
   color: black;
   text-align: center;
-  font-size: 100px;
+  font-size: 50px;
   animation: 2.5s infinite pjanim3;
 }
 
